@@ -32,5 +32,5 @@ Here are some screenshots of the Laptop Price Predictor application:
 
   
 ## Conclusion
-The Laptop Price Predictor project demonstrates the use of machine learning techniques to predict the prices of laptops based on their specifications. By leveraging the Random Forest algorithm, the model achieves a high level of accuracy in estimating laptop prices. The provided Streamlit frontend allows users to input the features of a laptop and obtain an instant prediction of its price. This project can be further extended by incorporating additional features or exploring different algorithms to enhance the prediction capabilities.
+The Laptop Price Predictor project demonstrates the use of machine learning techniques to predict the prices of laptops based on their specifications. By leveraging the Random Forest algorithm, the model achieves a high level of accuracy in estimating laptop prices. The provided Streamlit frontend allows users to input the features of a laptop and obtain an instant prediction of its price. 
 
